@@ -6,6 +6,7 @@ Whiteout is a bunch of themes I've been making over a long period of time all sp
  - **GTK theme** (WIP - System)
  - [**Micro theme** (Text editor)](https://github.com/0neGuyDev/micro-whiteout)
  - [**Firefox theme** (Browser)](https://github.com/0neGuyDev/firefox-whiteout)
+ - [**Ulauncher Theme** (App Launcher)](https://github.com/0neGuyDev/ulauncher-whiteout)
  - **Many themes for websites** (WIP - Browser)
  - _**More to come...**_
 
