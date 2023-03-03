@@ -5,6 +5,7 @@ Whiteout is a bunch of themes I've been making over a long period of time all sp
  - [**Firefox theme** (Browser)](https://github.com/0neGuyDev/firefox-whiteout)
  - [**Micro theme** (Text editor)](https://github.com/0neGuyDev/micro-whiteout)
  - [**Helix theme** (Text editor)](https://github.com/Qeatrix/helix-themes/tree/serenity-white)
+ - [**Kakoune theme** (Text editor)](https://github.com/Qeatrix/kakoune-themes/tree/serenity-white)
  - **GTK theme** (WIP - System)
  - [**Ulauncher Theme** (App Launcher)](https://github.com/0neGuyDev/ulauncher-whiteout)
  - **New Tab** (Idea - Browser extension)
